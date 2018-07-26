@@ -4,3 +4,7 @@ Parler de la progression
 Ameliorer la description des elements
 
 Definir les handicaps
+
+Montee en compétence : 
+1 compétence gagne 1 niveau tous les X utilisations (ALO like)
++ Gain de nouvelles compétence en cas d'utilisation de l'arbre de compétences.
